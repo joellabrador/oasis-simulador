@@ -253,7 +253,7 @@ if gestion_salmuera == "Vertido Directo al Mar (Sin gestión)":
 elif gestion_salmuera == "Valorización Básica (Solo extracción de NaCl)":
     st.markdown("- ODS 12 y 14 Parcial: Mitigación básica del impacto marino mediante la recuperación de sal común.")
 elif gestion_salmuera == "Valorización Avanzada (ZLD Completo - NaCl, Litio y Magnesio)":
-    st.markdown("- ODS 12 y 14: Preservación total del ecosistema marino sin vertidos.")
+    st.markdown("- ODS 12 y 14: Minería urbana activada y preservación total del ecosistema marino sin vertidos.")
     
 if emisiones == 0:
     st.markdown("- ODS 13 (Acción por el Clima): Balance neto cero de emisiones. Máxima sostenibilidad.")
